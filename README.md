@@ -1,4 +1,3 @@
-# octocat.github.io
 
 <html>
 <head>
