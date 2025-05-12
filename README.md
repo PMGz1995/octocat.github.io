@@ -1,7 +1,4 @@
 
-<html>
-<head>
-  <meta charset="UTF-8">
   <title>Цооногийн мэдээлэл хайх</title>
   <style>
     body { font-family: Arial, sans-serif; padding: 20px; }
