@@ -90,7 +90,7 @@ const data = [
 { num: 'T19-254-163', depth: 0, pumped: 300, total: 3, oil: 1, water: 2 },
 { num: 'T19-258-168', depth: 0, pumped: 300, total: 3, oil: 0.5, water: 2.5 },
 { num: 'T19-262-170', depth: 350, pumped: 600, total: 2.5, oil: 1.5, water: 1 },
-{ num: 'T19-266-168', depth: 1200, pumped: 1450, total: 2.5, oil: 1.5, water: 1 },
+{ num: 'T19-266-168', depth: 750, pumped: 900, total: 2.5, oil: 1, water: 1.5 },
 { num: 'T19-272-173', depth: 1950, pumped: 2100, total: 2.5, oil: 1.5, water: 1 },
 { num: 'T19-274-161', depth: 1600, pumped: 1900, total: 3, oil: 1, water: 2 },
 { num: 'T19-34-3', depth: 0, pumped: 300, total: 3, oil: 0, water: 3 },
