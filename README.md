@@ -38,9 +38,6 @@
 <script>
 const data = [
  { num: 'T19-130', depth: 1050, pumped: 1300, total: 2.5, oil: 1.5, water: 1 },
-{ num: 'T154-158', depth: 1700, pumped: 1950, total: 2.5, oil: 2, water: 0.5 },
-{ num: 'T172-167', depth: 500, pumped: 750, total: 2.5, oil: 1, water: 1.5 },
-{ num: 'T176-167', depth: 1150, pumped: 1400, total: 2.5, oil: 2, water: 0.5 },
 { num: 'T19-204-205', depth: 1700, pumped: 1950, total: 2.5, oil: 1.5, water: 1 },
 { num: 'T19-218-210', depth: 250, pumped: 500, total: 2.5, oil: 1.5, water: 1 },
 { num: 'T19-218-210-/2', depth: 400, pumped: 600, total: 2, oil: 0, water: 2 },
