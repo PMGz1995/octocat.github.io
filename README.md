@@ -79,7 +79,7 @@ const data = [
 { num: 'T19-13-1', depth: 0, pumped: 250, total: 2.5, oil: 1, water: 1.5 },
 { num: 'T19-204-194', depth: 1850, pumped: 2050, total: 2, oil: 1.5, water: 0.5 },
 { num: 'T19-207-206', depth: 830, pumped: 1080, total: 2.5, oil: 1.5, water: 1 },
-{ num: 'T19-199-201', depth: 200, pumped: 500, total: 3, oil: 1, water: 2 },
+{ num: 'T19-199-201', depth: 0, pumped: 300, total: 3, oil: 0, water: 3 },
 { num: 'A90-50', depth: 50, pumped: 300, total: 2.5, oil: 1, water: 1.5 },
 { num: 'T19-223-238', depth: 1600, pumped: 1850, total: 2.5, oil: 1.5, water: 1 },
 { num: 'T19-86', depth: 1020, pumped: 1270, total: 2.5, oil: 2, water: 0.5 },
@@ -134,6 +134,11 @@ const data = [
 { num: 'T19-', depth: 0, pumped: 0, total: 0, oil: 0, water: 0 },
   { num: 'T19-366-246', depth: 0, pumped: 300, total: 3, oil: 0, water: 3 },
 { num: 'T19-366-246-/2', depth: 80, pumped: 380, total: 3, oil: 0, water: 3 },
+  { num: 'T19-199-201-/2', depth: 50, pumped: 350, total: 3, oil: 0, water: 3 },
+{ num: 'T19-226-210', depth: 150, pumped: 450, total: 3, oil: 0, water: 3 },
+{ num: 'T19-226-210-/2', depth: 400, pumped: 700, total: 3, oil: 0, water: 3 },
+{ num: 'T19-226-210-/3', depth: 600, pumped: 900, total: 3, oil: 0, water: 3 },
+{ num: 'T19-199-201-/3', depth: 120, pumped: 420, total: 3, oil: 0, water: 3 },
 
 ];
 
